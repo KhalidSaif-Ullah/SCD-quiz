@@ -1,0 +1,5 @@
+print("Hello")
+print("SCD Lab Quiz Today.")
+print("1.I created a new repository on GITHUB named 'SCD-quiz'.")
+print("2.Pushed this python code into it.")
+print("3.Created two branches.")
